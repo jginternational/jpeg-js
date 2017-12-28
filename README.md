@@ -157,4 +157,7 @@ jpeg-js is only possible due to the excellent work of the following contributors
 <tr><th align="left">wmossman</th><td><a href="https://github.com/wmossman">GitHub/wmossman</a></td></tr>
 <tr><th align="left">Patrick Hulce</th><td><a href="https://github.com/patrickhulce">GitHub/patrickhulce</a></td></tr>
 <tr><th align="left">Ben Wiley</th><td><a href="https://github.com/benwiley4000">GitHub/benwiley4000</a></td></tr>
+
+modified by:
+<tr><th align="left">Javi Gárate</th><td><a href="https://github.com/jginternational">GitHub/jginternational</a></td></tr>
 </tbody></table>
